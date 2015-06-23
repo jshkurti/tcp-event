@@ -1,6 +1,4 @@
-# /!\ Unfinished /!\
-
-# ipc-shared
+# tcp-event
 The simplest Node.js inter-process event emitter
 
 ## Install
